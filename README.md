@@ -24,7 +24,7 @@ One of the models is adapted for a portfolio of assets and utilizes an Embedding
 - Accommodating multiple assets in one predictive model
 - Implement Embedding Layer in Portfolio model
 
- ![Walk-Forward and Tensor Illustration](docs/walk_forward_and_tensor_image.png)
+ ![Walk-Forward and Tensor Illustration](walk_forward_and_tensor_image.png)
 
 *Figure: Walk-Forward Training (left) and Portfolio Batch Illustration (right).* 
 
